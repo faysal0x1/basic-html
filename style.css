@@ -1,0 +1,17 @@
+.heading1{
+    color: red; 
+    text-transform: uppercase;
+    border: 1px solid blue;
+ }
+
+ body{
+    background-color:lightblue;
+    font-family: 'Roboto', sans-serif;
+ }
+
+ .setBorder{
+    
+    border: 1px solid blue;
+    padding: 10rem;
+    margin: 25px;
+ }

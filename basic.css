@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+ 
+    font-family: 'Roboto', sans-serif;
+ }
+
+ .Web{
+    background-color: green;
+    padding: 30px 80px;
+ }
+ .Web h1{
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+ }
+ .CP{
+    background-image: url('./photo-1682955527280-33b559fd7378.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 80px;
+ }
+ .CP h1{
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+ }
